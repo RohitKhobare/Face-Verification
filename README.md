@@ -69,3 +69,8 @@ A sample run produced:
 
 - Add more real face images to the `data/anchor`, `data/positive`, and `data/negative` folders for stronger matching.
 - Fine-tune the model for better accuracy on real-world faces.
+
+## Author
+Rohit Khobare
+rohitkhobare2005@gmail.com
+9096809820
